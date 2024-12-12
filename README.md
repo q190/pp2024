@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyen Thi Nhu Quynh
+* Student Name: Nguyễn Thị Như Quỳnh
 * Student ID: 22BA13270
 
